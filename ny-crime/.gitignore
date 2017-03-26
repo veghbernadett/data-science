@@ -1,0 +1,6 @@
+*.csv
+scratch*.ipynb
+.DS_Store
+.ipynb_checkpoints
+data/raw
+data/tmp

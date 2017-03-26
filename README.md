@@ -1,1 +1,1 @@
-# springboard-data-science
+# Springboard
